@@ -1,0 +1,237 @@
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Projecto\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.csproj.CopyComplete
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\02-WebService\obj\Debug\netcoreapp2.2\02-WebService.genruntimeconfig.cache

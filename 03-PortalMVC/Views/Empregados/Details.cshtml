@@ -1,0 +1,46 @@
+﻿@model _01_DAL.Empregado
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Empregado</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Numero_Empregado)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Numero_Empregado)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.EMail)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.EMail)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Lista_Produtos)
+        </dt>
+        <dd class="col-sm-9">
+           @Html.DisplayFor(model => model.Lista_Produtos)
+
+
+
+        </dd>
+</dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,512 @@
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\TesteAPI\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\TesteAPI\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\TesteAPI\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Computadores\Projecto Final web developer\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Teste.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Index.g.cshtml.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\Projecto_Stocks_Catarina\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.Views.dll
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.Views.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.deps.json
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.json
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.deps.json
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.dll
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.dll
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.dll
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\01-DAL.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\bin\Debug\netcoreapp2.2\02-WebService.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Empregados\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Faturas\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Linhas_Fatura\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.Views.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.dll
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.pdb
+C:\Users\ASUS\Desktop\IT\Projecto\03-PortalMVC\obj\Debug\netcoreapp2.2\03-PortalMVC.genruntimeconfig.cache
